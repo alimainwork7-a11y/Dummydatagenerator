@@ -1,0 +1,5 @@
+{
+  "name": "BigDataGen Pro",
+  "description": "A high-performance bulk data generator capable of creating up to 5,000,000 rows of synthetic data for CSV and Excel formats, featuring AI-powered schema generation.",
+  "requestFramePermissions": []
+}
